@@ -21,7 +21,7 @@
 }
 body{
     width: 100%;
-    height: 100vh;
+    height: 1000vh;
     background-color: var(--frist);
     color:var(--third);
 
