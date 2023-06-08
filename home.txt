@@ -175,7 +175,7 @@ text-shadow: 2px 3px slategrey;
   <div class="maincontainer"> 
     <div class="wellcome"><span>wellcome guyes</span></div>
     <div class="identity">
-        <p>mebrat matebie <br>
+        <p><b>TIBEBE ASNAKE</b> <br>
 s.w.e student at debre markos
         </p>
     </div>
